@@ -1,0 +1,46 @@
+a{
+  text-decoration: none;
+}
+p{
+  color: #fff;
+  font-size:20px;
+  line-height: 1.8;
+}
+.mian-3 p{
+  float: left;
+  margin-top: 45px;
+  margin-left: 120px;
+  font-size:30px;
+  color: #fff;
+}
+.mian-3 span{
+  margin-top: 90px;
+  float: left;
+  margin-left:-210px;
+  color: #fff;
+}
+.mian-4 p{
+  margin-top: 45px;
+  margin-left:400px;
+  font-size: 30px;
+  color: #fff;
+}
+.mian-4 span{
+    margin-top:-10px;
+  float: left;
+margin-left:65px;
+  color: #fff;
+}
+.left{
+    margin-left: 123px;
+}
+.center{
+  margin-left:21px;
+}
+.center span,.right span{
+  font-size: 18px;
+  color: #fff;
+}
+.right{
+  margin-left: 21px;
+}
